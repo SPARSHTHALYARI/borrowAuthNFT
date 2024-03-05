@@ -1,5 +1,4 @@
-# nft-flow
-
+# borrowAuthNFT
 
 The CryptoPoops smart contract introduces a basic implementation of a non-fungible token (NFT) collection using the Cadence programming language on the Flow blockchain. This contract offers features such as NFT minting, collection management, deposit and withdrawal functionality, and a public interface for interacting with the NFTs.
 
